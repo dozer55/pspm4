@@ -1,5 +1,5 @@
 <?php
-
+namespace pspm4\App;
 /**
  * PmtResource is class for accessing the ProcessMaker API via Guzzle
  *

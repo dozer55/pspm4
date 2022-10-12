@@ -1,0 +1,10 @@
+{
+	"name": "pspm4/pspm4",
+	"type": "library",
+	"description": "pspm4 is a pm4 helper",
+	"autoload": {
+		"psr-r": {
+			"pspm4\\": "src/"
+		}
+	}
+}
